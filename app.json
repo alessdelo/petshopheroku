@@ -1,0 +1,7 @@
+{
+  "name": "Pet Shop (Ethereum Dapp Test 1)",
+  "description": "This is a Dapp Test",
+  "keywords": [ "dapp", "ethereum", "solidity"],
+  "repository": "https://github.com/alessdelo/ethereum-pet-shop",
+  "image": "heroku/nodejs"
+}
