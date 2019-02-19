@@ -1,1 +1,1 @@
-aletr('here is Test2!');
+alert('here is Test2!');
