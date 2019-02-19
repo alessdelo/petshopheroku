@@ -5,9 +5,9 @@
   "main": "truffle.js",
   "directories": {
     "test": "test"
-  },
+  },  
   "scripts": {
-    "dev": "lite-server",
+    "start": "node index13.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
