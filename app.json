@@ -1,7 +1,7 @@
 {
-  "name": "Pet Shop (Ethereum Dapp Test 1)",
-  "description": "This is a Dapp Test",
+  "name": "Pet Shop (Ethereum Dapp Test 2)",
+  "description": "Pet Shop Dapp Test on Heroku",
   "keywords": [ "dapp", "ethereum", "solidity"],
-  "repository": "https://github.com/alessdelo/ethereum-pet-shop",
+  "repository": "https://github.com/alessdelo/petshopheroku",
   "image": "heroku/nodejs"
 }
